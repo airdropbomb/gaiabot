@@ -1,4 +1,4 @@
-# GaiaBOT - AI Chat Integration
+# GaiaBOT - AI Chat Integration By Galkurta
 
 A Node.js application that integrates Groq and Gaianet AI services for interactive chat conversations about Paris tourism.
 
@@ -23,7 +23,7 @@ A Node.js application that integrates Groq and Gaianet AI services for interacti
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Galkurta/Gaia-BOT.git
+git clone https://github.com/Svz1404/Gaia-BOT.git
 cd Gaia-BOT
 ```
 
